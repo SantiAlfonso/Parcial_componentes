@@ -16,6 +16,9 @@
             android:name=".PracticaMaracas"
             android:exported="false" />
         <activity
+            android:name=".Detalle"
+            android:exported="false" />
+        <activity
             android:name=".PracticaTambor"
             android:exported="false" />
         <activity
